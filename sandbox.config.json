@@ -1,4 +1,4 @@
 {
-    "template": "static"
-  }
-  
+  "template": "static",
+  "hardReloadOnChange": true
+}
