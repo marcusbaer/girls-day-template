@@ -1,15 +1,15 @@
 {
-    "name": "girls-day-template",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.html",
-    "scripts": {
-      "start": "serve"
-    },
-    "keywords": [],
-    "author": "Marcus Baer",
-    "license": "MIT",
-    "devDependencies": {
-      "serve": "^11.2.0"
-    }
+  "name": "girls-day-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve public"
+  },
+  "keywords": [],
+  "author": "Marcus Baer",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^11.2.0"
   }
+}
