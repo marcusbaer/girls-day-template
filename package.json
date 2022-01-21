@@ -5,5 +5,5 @@
   "keywords": [],
   "author": "Marcus Baer",
   "license": "MIT",
-  "main": "public/index.html"
+  "main": "index.html"
 }
